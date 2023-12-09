@@ -11,7 +11,7 @@ namespace StayInYourBiome
         public const string NAME = "StayInYourBiome";
         public const string AUTHOR = "Kevver";
         public const string GUID = $"{AUTHOR}.{NAME}";
-        public const string VERSION = "1.0.1";
+        public const string VERSION = "1.0.2";
 
         private readonly Harmony harmony = new(NAME);
 

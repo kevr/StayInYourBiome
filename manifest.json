@@ -1,6 +1,6 @@
 {
     "name": "StayInYourBiome",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://discord.gg/n2ZyrtcFQy",
     "description": "Stops creature spawns tied to existing global boss keys",
     "dependencies": [
